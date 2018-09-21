@@ -1,0 +1,44 @@
+
+#nav_pro{
+   background: orange;
+}
+#seciones{
+     color:orange;
+	 margin-left:10px;
+}
+ span{
+	color:black;
+}
+input, textarea, select{
+	color:black;
+}
+.input-field.col.s6, .input-field.col.s4, .input-field.col.s8, .input-field.col.s12{
+	color:black;
+}
+
+#ok{
+	border-radius: 10px;
+	border:double 2px green;
+	background:#C8E6C9;
+	margin:10px;
+}
+#error{
+	border-radius: 10px;
+	border:double 2px red;
+	background:#FFEBEE;
+	margin:10px;
+}
+.error{
+	font-family:cursive;	
+	color :red;
+}
+.ok{
+	font-family:cursive;	
+	color :green;
+
+}
+.add{
+	width:40px;
+	height: 40px;
+	margin-right:5%;
+}
